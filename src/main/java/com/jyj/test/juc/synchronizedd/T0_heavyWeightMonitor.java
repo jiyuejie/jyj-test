@@ -8,6 +8,7 @@ import org.openjdk.jol.info.ClassLayout;
  * @version: V1.0
  * @slogan: 天下风云出我辈，一入代码岁月催
  * @description:
+ *      jsp  ---->   jmap -histo pid
  **/
 public class T0_heavyWeightMonitor {
 
