@@ -23,6 +23,7 @@
     <modules>
         <module>practice</module>
         <module>zk</module>
+        <module>spring-learn</module>
     </modules>
 
     <dependencyManagement>
